@@ -1,0 +1,1 @@
+<mysql.connector.connection_cext.CMySQLConnection object at 0x000001823C80C0D0>
